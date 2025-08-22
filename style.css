@@ -14,3 +14,13 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+.logo {
+    text-transform: uppercase;
+    color: lightslategray;
+    font-weight: 300;
+}
+
+.menu a{
+    color: darkkhaki;
+}
